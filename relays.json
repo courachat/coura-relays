@@ -1,16 +1,34 @@
 {
   "kind": 10002,
-  "created_at": 1786379824,
+  "created_at": 1793289420,
   "tags": [
-    ["r", "wss://relay.primal.net"],
-    ["r", "wss://nos.lol"],
-    ["r", "wss://nostr.oxtr.dev"],
-    ["r", "wss://relay.damus.io"],
-    ["r", "wss://relay.snort.social"],
-    ["r", "wss://nostr.mom"]
+    [
+      "r",
+      "wss://relay.primal.net"
+    ],
+    [
+      "r",
+      "wss://nos.lol"
+    ],
+    [
+      "r",
+      "wss://nostr.oxtr.dev"
+    ],
+    [
+      "r",
+      "wss://relay.damus.io"
+    ],
+    [
+      "r",
+      "wss://nostr.mom"
+    ],
+    [
+      "r",
+      "wss://nostr-pub.wellorder.net"
+    ]
   ],
-  "content": "{\"relays\":[\"wss://relay.primal.net\",\"wss://nos.lol\",\"wss://nostr.oxtr.dev\",\"wss://relay.damus.io\",\"wss://relay.snort.social\",\"wss://nostr.mom\"]}",
-  "pubkey": "883d097179fdec2f8c8733471d8498366ef99888e0c4753aca6dc456fa53bd86",
-  "id": "fcf7eee25aa55cdedef69dd5c83c87ff58d87bf128a1379cdfc3ecbb575085a6",
-  "sig": "67d9705e74ba7228b99820b404b38d9987a91201fe70d27fd00b14c4e66eb414aa26f9ce9371d7a1d4d26f751abd8278decd678da83ad1ec3dc8383471875e99"
+  "content": "{\"relays\":[\"wss://relay.primal.net\",\"wss://nos.lol\",\"wss://nostr.oxtr.dev\",\"wss://relay.damus.io\",\"wss://nostr.mom\",\"wss://nostr-pub.wellorder.net\"]}",
+  "pubkey": "087633aa72a57d1d7516147cd1bc532cecc28e5f690c221c8af48de6ddc5d5fb",
+  "id": "d4a12da8949dd44f2affe5f311e32adac2852ed1cde17202583218ee05503465",
+  "sig": "7f22547634641c9355a6fd853ad0fa4e2157a477d32d3257c12408bf3bb51821f2b84ffad5b5547d1c7fe5a5ce2e90fd4fd79b6aaf6ba6eb3841e983e6599508"
 }
