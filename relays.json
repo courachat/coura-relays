@@ -1,0 +1,16 @@
+{
+  "kind": 10002,
+  "created_at": 1786379824,
+  "tags": [
+    ["r", "wss://relay.primal.net"],
+    ["r", "wss://nos.lol"],
+    ["r", "wss://nostr.oxtr.dev"],
+    ["r", "wss://relay.damus.io"],
+    ["r", "wss://relay.snort.social"],
+    ["r", "wss://nostr.mom"]
+  ],
+  "content": "{\"relays\":[\"wss://relay.primal.net\",\"wss://nos.lol\",\"wss://nostr.oxtr.dev\",\"wss://relay.damus.io\",\"wss://relay.snort.social\",\"wss://nostr.mom\"]}",
+  "pubkey": "883d097179fdec2f8c8733471d8498366ef99888e0c4753aca6dc456fa53bd86",
+  "id": "fcf7eee25aa55cdedef69dd5c83c87ff58d87bf128a1379cdfc3ecbb575085a6",
+  "sig": "67d9705e74ba7228b99820b404b38d9987a91201fe70d27fd00b14c4e66eb414aa26f9ce9371d7a1d4d26f751abd8278decd678da83ad1ec3dc8383471875e99"
+}
